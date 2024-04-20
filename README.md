@@ -2,6 +2,25 @@
 
 𝙄 𝙝𝙖𝙫𝙚 𝙘𝙤𝙢𝙥𝙡𝙚𝙩𝙚𝙙 𝙩𝙝𝙚 𝘿𝙖𝙩𝙖 𝘼𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙨 𝙀𝙨𝙨𝙚𝙣𝙩𝙞𝙖𝙡 𝙘𝙤𝙪𝙧𝙨𝙚 𝙗𝙮 𝙩𝙝𝙚 𝘾𝙞𝙨𝙘𝙤 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗔𝗰𝗮𝗱𝗲𝗺𝘆.
 
+#Topic Titles which where covered during the course
+Analytics in Real-Time
+Data Analytics in Action
+The Project Portfolio
+
+#Topic Objective: Explain the value of data analytics.
+
+The availability of real-time data now makes possible the analysis of many types of data from numerous sources. This data can be analyzed to provide actionable insights on which all types of organizations can base decisions.
+There are four key types of data analytics: Descriptive, Predictive, Prescriptive, and Diagnostic. Used in combination, they can provide a thorough understanding of a business's needs and opportunities.
+
+$Topic Objective: Describe the phases in the analytic process.
+
+The six phases of the analytic process are Asking the question, Getting the data, Investigating the data, Preparing the data, Analyzing the data, and Presenting the results. In real-world applications, the process is iterative.
+
+#Topic Objective: Explain how to create and share a project portfolio.
+
+For data analyst positions, a project portfolio can provide evidence that demonstrates the ability to complete a project from start to finish. When choosing projects to add to your portfolio, include subject areas and issues that you are interested in personally. Projects should include evidence of all relevant steps of the analysis process.
+
+
 ## 𝗞𝗲𝘆 𝙩𝙖𝙠𝙚𝙖𝙬𝙖𝙮𝙨 -
 1) 𝘼𝙡𝙡 𝙩𝙝𝙚 𝙢𝙤𝙙𝙪𝙡𝙚𝙨 𝙛𝙤𝙧 𝙩𝙝𝙚 𝙘𝙤𝙪𝙧𝙨𝙚 𝙖𝙧𝙚 𝙬𝙚𝙡𝙡 𝙨𝙩𝙧𝙪𝙘𝙩𝙪𝙧𝙚𝙙.
 
